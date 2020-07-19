@@ -1,0 +1,399 @@
+.ej1 {
+    width: 800px;
+    height: 400px;
+   
+}
+
+.parent {
+    width: 800px;
+    height: 400px;
+    border: 5px solid black;
+    margin: 20px auto;
+    position: relative;
+    
+
+}
+
+
+.txt1-1 {
+    position: absolute;
+    top: 4.2cm;
+    left: 9cm;
+    
+    
+}
+
+.txt1-2 {
+
+    position: absolute;
+    top: 4.2cm;;
+    left: 12.8cm;
+    
+}
+.txt1-3 {
+    position: absolute;
+    top: 4.2cm;
+    right: 37px;
+    
+}
+
+.txt1-4 {
+    position: absolute;
+    bottom: 55px;
+    left: 330px;
+}
+
+.txt1-5 {
+
+    position: absolute;
+    bottom: 55px;
+    left: 440px;
+}
+
+.txt1-6 {
+
+    position: absolute;
+    bottom: 55px;
+    left: 542px;
+}
+.txt1-7 {
+
+    position: absolute;
+    bottom: 55px;
+    left: 656px;
+}
+
+.button {
+    position: absolute;
+    bottom: 0;
+    right: 1cm;
+   
+}
+
+.reset {
+    position: absolute;
+    bottom: 0;
+    right: 3cm;
+}
+
+#verif3{
+    position: absolute;
+    bottom: 0;
+    left: 3cm;
+}
+
+#limp3{
+    position: absolute;
+    bottom: 0;
+    left: 1cm;
+}
+
+.parent2 {
+    position: relative;
+    width: 921px;
+    height: 306px;
+    border: 5px solid black;
+    margin: 20px auto;  
+}
+
+.txt2-1{
+    position: absolute;
+    right:  1.2cm;
+    top: 1.5cm;
+    
+}
+
+.txt2_2{
+    position: absolute;
+    top: 2.4cm;
+    right: 5.3cm;
+}
+
+.txt2-3{
+    position:absolute;
+    top: 40%;
+    right: 5cm;
+}
+
+.txt2-4{
+ position: absolute;
+ top: 51%;
+ right: 2.5cm;
+}
+
+.txt2-5{
+    position: absolute;
+    top: 61%;
+    right: 2.5cm;
+}
+
+.txt2-6{
+    position: absolute;
+    top: 72%;
+    right: 1.8cm;
+}
+
+.txt2-7{
+    position: absolute;
+    top:83%;
+    right: 6.5cm;
+}
+
+.parent3{
+    position: relative;
+    width: 850px;
+    height: 350px;
+    border: 5px solid black;
+    margin: 20px auto;  
+}
+
+
+.txt3-1{
+    position: absolute;
+    left:  6.6cm;
+    top: 1.3cm;
+}
+
+.txt3-2{
+    position: absolute;
+    top: 2cm;
+    left: 6.6cm;
+}
+
+.txt3-3{
+    position:absolute;
+    top: 2.8cm;
+    left: 6.6cm;
+}
+
+.txt3-4{
+ position: absolute;
+ top: 3.6cm;
+ left: 6.6cm;
+}
+
+.txt3-5{
+    position: absolute;
+    top: 4.4cm;
+    left: 6.6cm;
+}
+
+.txt3-6{
+    position: absolute;
+    top: 5.1cm;
+    left: 6.5cm;
+}
+
+.txt3-7{
+    position: absolute;
+    top:6.3cm;
+    left: 6.5cm;
+}
+
+.txt3-8{
+    position: absolute;
+    top: 7.6cm;
+    left: 6.5cm
+}
+
+.txt3-9{
+    position: absolute;
+    right:  5.1cm;
+    top: 1.3cm;
+}
+
+.txt3-10{
+    position: absolute;
+    top: 2cm;
+    right: 5.1cm;
+}
+
+.txt3-11{
+    position:absolute;
+    top: 2.8cm;
+    right:5.1cm;
+}
+
+.txt3-12{
+ position: absolute;
+ top: 3.6cm;
+ right:5.1cm;
+}
+
+.txt3-13{
+    position: absolute;
+    top: 4.3cm;
+    right: 5.1cm;
+}
+
+.txt3-14{
+    position: absolute;
+    top: 5.1cm;
+    right: 5.2cm;
+}
+
+.txt3-15{
+    position: absolute;
+    top:5.8cm;
+    right: 5.1cm;
+}
+
+.txt3-16{
+    position: absolute;
+    top: 6.5cm;
+    right: 5.1cm
+}
+
+.txt3-17{
+    position: absolute;
+    top: 7.3cm;
+    right: 5.2cm
+}
+
+.txt3-18{
+    position: absolute;
+    top: 8cm;
+    right: 5.2cm
+}
+
+.parent4{
+    position: relative;
+    width: 850px;
+    height: 380px;
+    border: 5px solid black;
+    margin: 20px auto;  
+}
+
+.titulo{
+    position: relative;
+    margin: 1px;
+}
+
+/* .txt4-1{
+    position: absolute;
+    top: 3cm;
+}
+.txt4-2{
+    position: absolute;
+    top: 4cm;
+} */
+.txt4-1{
+    position: absolute;
+
+    bottom: 0;
+}
+
+.radio{
+   
+    background-color: white;
+    width: 2.9cm;
+    height: 29px;
+    margin: 20px auto;  
+
+    
+}
+
+#ej1{
+    position: absolute;
+    top: 0.9cm;
+    left: 4.7cm;
+
+}
+
+
+
+
+#ej2 {
+    position: absolute;
+    top: 0.9cm;
+    left: 7.9cm;
+   width: 2.5cm;
+
+}
+
+#ej3{
+    position: absolute;
+    top: 2.1cm;
+    left: 4.4cm;
+    width: 1.9cm;
+}
+#ej4{
+    position: absolute;
+    top: 2.1cm;
+    left: 6.2cm;
+    width: 1.5cm;
+   
+}
+#ej5{
+    position: absolute;
+    top: 3.28cm;
+    right: 5.8cm;
+    width: 2.5cm;
+}
+
+#ej6{
+    position: absolute;
+    top: 3.28cm;
+    right: 3cm;
+    width: 2.5cm;
+}
+
+#ej7{
+    position: absolute;
+    top: 44%;
+    right: 71.5%;
+    width: 2cm;
+}
+
+#ej8{
+    position: absolute;
+    top: 44%;
+    right: 62.5%;
+    width: 1.85cm;
+
+}
+
+#ej9{
+    position: absolute;
+    top: 56%;
+    right: 49.5%;
+    width: 2cm;
+}
+
+#ej10{
+    position: absolute;
+    top: 56%;
+    right: 42%;
+    width: 2cm;
+}
+
+#ej11{
+    position: absolute;
+    top: 68%;
+    right: 57.5%;
+    width: 2cm;
+}
+
+#ej12{
+    position: absolute;
+    top: 68%;
+    right: 44.2%;
+    width: 2.7cm;
+}
+
+#ej13{
+    position: absolute;
+    top: 80%;
+    right: 41.5%;
+    width: 2cm;
+}
+
+#ej14{
+    position: absolute;
+    top: 80%;
+    right: 30.5%;
+    width: 2.7cm;
+}
+
+
+ 
